@@ -1,0 +1,1 @@
+Run each `python test.py` in root shell.

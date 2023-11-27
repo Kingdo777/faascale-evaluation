@@ -1,0 +1,13 @@
+/runc/java-spring-boot/project/target/
+/runc/java-spring-boot/runc/checkpoint/
+/runc/java-spring-boot/runc/rootfs/
+
+/runc/java-httpserver/runc/rootfs/
+/runc/java-httpserver/runc/checkpoint/
+
+/runc/nginx/runc/rootfs/
+/runc/nginx/runc/checkpoint/
+
+/runc/python-flask/runc/rootfs/
+/runc/python-flask/runc/checkpoint/
+/firecracker/bin/release-v1.1.3-x86_64/*
